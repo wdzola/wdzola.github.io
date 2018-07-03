@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Quicksand', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.4rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -656,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Quicksand', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.4rem;
 }
 .form-control,
 .form-control:focus {
@@ -1767,10 +1767,10 @@ body {
   color: #0075c9;
 }
 .cid-qTkA127IK8 SPAN {
-  color: #ffffff;
+  color: #0075c9;
 }
 .cid-qWFJcRX2xb {
-  background-image: url("../../../assets/images/zola-flex-illustration-960x720.png");
+  background-color: #0075c9;
 }
 .cid-qWFJcRX2xb .icons-media-container {
   display: flex;
@@ -1802,11 +1802,58 @@ body {
 .cid-qWFJcRX2xb .mbr-section-btn {
   color: #efefef;
 }
+.cid-qWMFlTcUNs {
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/zola-flex-illustration-960x720.png");
+}
+.cid-qWMFlTcUNs h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-qWMFlTcUNs p {
+  color: #ffffff;
+}
+.cid-qWMFlTcUNs .card {
+  margin-bottom: 2rem;
+}
+.cid-qWMFlTcUNs .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #0075c9;
+}
+.cid-qWMFlTcUNs .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qWMFlTcUNs .card-box {
+  padding-bottom: 2rem;
+  background-color: #0075c9;
+  background: linear-gradient(#0075c9, transparent);
+}
+.cid-qWMFlTcUNs .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qWMFlTcUNs .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qWMFlTcUNs .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qWMFlTcUNs .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
 .cid-qWGxEln24y {
   background-image: url("../../../assets/images/unset-1400x933.jpg");
 }
 .cid-qWGxEln24y .mbr-section-subtitle {
   letter-spacing: .2rem;
+}
+.cid-qWGxEln24y H1 {
+  text-align: right;
 }
 .cid-qWGI0CqiRK {
   padding-top: 90px;
@@ -1987,6 +2034,24 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qWMCSceypY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qWMCSceypY .mbr-text {
+  color: #767676;
+}
+.cid-qWMCSceypY h4 {
+  text-align: center;
+}
+.cid-qWMCSceypY p {
+  text-align: center;
+}
+.cid-qWMCSceypY .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
