@@ -2003,7 +2003,7 @@ body {
 .cid-qWGWnw9Ctj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qWGWnw9Ctj .card-img {
   background-color: #fff;
@@ -2056,6 +2056,9 @@ body {
 .cid-qWMCSceypY .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+#instagram-feed-block-o .inst__title {
+  color: #0075c9;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
