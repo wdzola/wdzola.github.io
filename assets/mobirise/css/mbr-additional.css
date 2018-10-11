@@ -4498,6 +4498,27 @@ body {
 .cid-qYDXabswHN {
   background-image: url("../../../assets/images/oge-masai-light-1086x616.jpg");
 }
+.cid-r67SCDL048 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #0075c9;
+}
+.cid-r67SCDL048 .mbr-text,
+.cid-r67SCDL048 blockquote {
+  color: #767676;
+}
+.cid-r67SCDL048 .mbr-text B {
+  color: #232323;
+}
+.cid-r67SCDL048 .mbr-text DIV {
+  color: #ffffff;
+}
+.cid-r67SCDL048 .mbr-text {
+  color: #0075c9;
+}
+.cid-r67SCDL048 .mbr-text P {
+  color: #ffffff;
+}
 .cid-r67TuMCslL .modal-body .close {
   background: #1b1b1b;
 }
@@ -4735,24 +4756,6 @@ body {
 .cid-r67TuMCslL .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-r67SCDL048 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #0075c9;
-}
-.cid-r67SCDL048 .mbr-text,
-.cid-r67SCDL048 blockquote {
-  color: #767676;
-}
-.cid-r67SCDL048 .mbr-text B {
-  color: #232323;
-}
-.cid-r67SCDL048 .mbr-text DIV {
-  color: #0075c9;
-}
-.cid-r67SCDL048 .mbr-text {
-  color: #0075c9;
-}
 .cid-r67Xlni0ZB {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4766,13 +4769,13 @@ body {
   color: #232323;
 }
 .cid-r67Xlni0ZB .mbr-text DIV {
-  color: #ffffff;
+  color: #0075c9;
 }
 .cid-r67Xlni0ZB .mbr-text {
   color: #ffffff;
 }
 .cid-r67Xlni0ZB .mbr-text P {
-  color: #ffffff;
+  color: #0075c9;
   text-align: center;
 }
 .cid-r67VjCAHrE {
@@ -4935,7 +4938,7 @@ body {
   background: #000;
 }
 .cid-r67ZiRBFtg .mbr-section-subtitle {
-  color: #767676;
+  color: #0075c9;
 }
 .cid-r67ZiRBFtg .carousel-item {
   -webkit-justify-content: center;
@@ -5129,6 +5132,9 @@ body {
   .cid-r67ZiRBFtg .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-r67ZiRBFtg H2 {
+  color: #0075c9;
 }
 .cid-r67Zg5HZh1 {
   padding-top: 60px;
@@ -5648,10 +5654,13 @@ body {
   color: #232323;
 }
 .cid-r68dYxNCsB .mbr-text DIV {
-  color: #0075c9;
+  color: #ffffff;
 }
 .cid-r68dYxNCsB .mbr-text {
   color: #0075c9;
+}
+.cid-r68dYxNCsB .mbr-text P {
+  color: #ffffff;
 }
 .cid-r68f44OvL5 {
   padding-top: 90px;
@@ -6619,13 +6628,13 @@ body {
   color: #232323;
 }
 .cid-r68hmWekd9 .mbr-text DIV {
-  color: #ffffff;
+  color: #0075c9;
 }
 .cid-r68hmWekd9 .mbr-text {
   color: #ffffff;
 }
 .cid-r68hmWekd9 .mbr-text P {
-  color: #ffffff;
+  color: #0075c9;
   text-align: center;
 }
 .cid-r68i1Pm5GI {
