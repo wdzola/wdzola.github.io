@@ -4498,78 +4498,6 @@ body {
 .cid-qYDXabswHN {
   background-image: url("../../../assets/images/oge-masai-light-1086x616.jpg");
 }
-.cid-r67YcgbZrr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r67YcgbZrr h2 {
-  text-align: center;
-}
-.cid-r67YcgbZrr h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-r67YcgbZrr p {
-  color: #767676;
-}
-.cid-r67YcgbZrr .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-r67YcgbZrr .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-r67YcgbZrr .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-r67YcgbZrr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r67YcgbZrr .card-title {
-  font-weight: 500;
-}
-.cid-r67YcgbZrr .card-img {
-  text-align: inherit;
-}
-.cid-r67YcgbZrr .card-img span {
-  font-size: 48px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-r67YcgbZrr .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r67YcgbZrr .mbr-figure {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-r67YcgbZrr .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
-  }
-  .cid-r67YcgbZrr .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-r67YcgbZrr .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-  }
-}
 .cid-r67TuMCslL .modal-body .close {
   background: #1b1b1b;
 }
@@ -6146,6 +6074,33 @@ body {
 }
 .cid-r689bqcEF5 H5 {
   color: #0075c9;
+}
+.cid-r68OydrBlF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r68OydrBlF .title {
+  margin-bottom: 2rem;
+}
+.cid-r68OydrBlF .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r68OydrBlF a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r68OydrBlF a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-r68OydrBlF .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r68OydrBlF .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-r66DOlXr7w {
   padding-top: 60px;
