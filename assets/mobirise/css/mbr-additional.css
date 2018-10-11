@@ -4838,13 +4838,13 @@ body {
   color: #232323;
 }
 .cid-r67Xlni0ZB .mbr-text DIV {
-  color: #0075c9;
+  color: #ffffff;
 }
 .cid-r67Xlni0ZB .mbr-text {
   color: #ffffff;
 }
 .cid-r67Xlni0ZB .mbr-text P {
-  color: #0075c9;
+  color: #ffffff;
   text-align: center;
 }
 .cid-r67VjCAHrE {
@@ -6597,4 +6597,102 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-r68h3Jjckn {
+  background: #ffffff;
+}
+.cid-r68h3Jjckn .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r68h3Jjckn .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r68h3Jjckn figcaption {
+  position: relative;
+}
+.cid-r68h3Jjckn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r68h3Jjckn .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r68hglY4tt {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r68hglY4tt .mbr-text,
+.cid-r68hglY4tt blockquote {
+  color: #767676;
+}
+.cid-r68hglY4tt .mbr-text B {
+  color: #232323;
+}
+.cid-r68hglY4tt .mbr-text DIV {
+  color: #0075c9;
+}
+.cid-r68hglY4tt .mbr-text {
+  color: #ffffff;
+}
+.cid-r68hglY4tt .mbr-text P {
+  color: #0075c9;
+}
+.cid-r68h5d620p {
+  background-image: url("../../../assets/images/oge-study-at-night-1680x1120.jpg");
+}
+.cid-r68h5d620p .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-r68h5d620p H1 {
+  text-align: right;
+}
+.cid-r68hmWekd9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #0075c9;
+}
+.cid-r68hmWekd9 .mbr-text,
+.cid-r68hmWekd9 blockquote {
+  color: #767676;
+}
+.cid-r68hmWekd9 .mbr-text B {
+  color: #232323;
+}
+.cid-r68hmWekd9 .mbr-text DIV {
+  color: #ffffff;
+}
+.cid-r68hmWekd9 .mbr-text {
+  color: #ffffff;
+}
+.cid-r68hmWekd9 .mbr-text P {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-r68i1Pm5GI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r68i1Pm5GI [class^="socicon-"]:before,
+.cid-r68i1Pm5GI [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-r68i1Pm5GI .btn-social {
+  border-color: #149dcc;
+}
+.cid-r68i1Pm5GI .btn-social:hover {
+  background: #149dcc;
+}
+.cid-r68i1Pm5GI .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-r68i1Pm5GI .btn {
+    font-size: 20px !important;
+  }
 }
