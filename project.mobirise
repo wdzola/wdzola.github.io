@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ZOLA - corporate landing page",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 154,
+    "uniqCompNum": 163,
     "versionPublish": "4.7.10",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1156,17 +1156,59 @@
             ".mbr-section-subtitle": {
               "font-style": "italic"
             },
-            "P": {
-              "color": "#ffffff"
-            },
             "H1": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#0075c9",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#0075c9"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
           "_name": "header9",
-          "_customHTML": "<section class=\"header9\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/26731378_2128675710699261_5247383738716924084_n-768x768.png\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0075c9\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-column mbr-white col-md-8\">\n            <h1 class=\"mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">ABOUT US - ZOLA Electric</span></h1>\n            <h3 class=\"mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">⚡️</h3>\n            <p class=\"mbr-text align-left pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">ZOLA Electric is the leading renewable energy brand in Africa. We power more than 180,000 homes across 5 countries and provide clean energy access to nearly 1,000,000 people each day. <br><br>ZOLA Electric R&amp;D Labs design renewable energy solutions based on the latest in solar, battery and power electronics technology. Adaptable to energy need and income, ZOLA Electric’s solar systems can be bought over time using PAYGo micro-finance leasing and mobile money payments.<br><br>\"ZOLA Electric (formerly Off Grid Electric) is the leading renewable energy brand in Africa. We help our customers to light their homes, power small businesses, stay connected and expand opportunities for work and study. <br> <br>Over 700 million people in Africa have no electricity access at all. Another 500 million are stuck with unreliable and expensive power. By providing solar technology that is affordable, accessible and reliable, ZOLA Electric’s offerings allow the average home or business to leapfrog the grid and adopt solar technology that is affordable, accessible and reliable. Our goal is to lead the mass market adoption of distributed solar power.<br></p>\n            <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">LEARN MORE</a></div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
-          "_cid": "r65CkanrKj",
-          "_anchor": "header9-1f",
+          "_customHTML": "<section class=\"header9\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/zola-install-1400x933-800x533.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-column mbr-white col-md-8\">\n            <h1 class=\"mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">About ZOLA Electric</span></h1>\n            <h3 class=\"mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\"><span style=\"font-style: normal;\">ZOLA Electric is the leading renewable energy brand in Africa. </span><span style=\"font-style: normal;\">We power more than 180,000 homes across 5 countries and provide clean energy access to nearly 1,000,000 people each day.</span></h3>\n            <p class=\"mbr-text align-left pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\"></p>\n            <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">MEDIA KIT</a> <a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">MEDIA INQUIRIES</a></div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_anchor": "header9-4f",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "r7xk2rKuhJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "color": "#0075c9"
+            },
+            ".mbr-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-text P": {
+              "color": "#0075c9"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\"><p>Over 700 million people in Africa have no electricity access at all. Another 500 million suffer from unreliable and expensive power from generators and antiquated grids. Zola has built a brand, a distribution network, and a <i>technology</i> platform to allow the average home or business to leapfrog the grid and adopt distributed renewable energy. &nbsp;</p><p></p><div><br></div><div>By providing solar technology that is affordable, accessible and reliable, ZOLA Electric’s offerings allow the average home or business to leapfrog the grid. ZOLA Electric designs renewable energy solutions based on the latest in solar, battery and power electronics technology. Adaptable to energy need and income, ZOLA Electric’s solar systems can be bought over time using PAYGo micro-finance leasing and mobile money payments.&nbsp;</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-4i",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "r7xlIiBv5U",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
